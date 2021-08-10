@@ -1,0 +1,25 @@
+.button {
+  font-size: 20px;
+  padding: 5px 0;
+  width: 200px;
+  cursor: pointer;
+  border: none;
+  border-top: 1px solid #b5eae2;
+  background-color: #4643430f;
+
+  transition: 0.5s;
+}
+
+.button:hover {
+  background-color: #cd774c;
+}
+
+.game__title {
+  width: 200px;
+  word-wrap: break-word;
+  text-align: center;
+  background-color: #4643430f;
+  
+}
+
+
